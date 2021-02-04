@@ -1,5 +1,5 @@
 # Primeiros passos tratamento fotográfico - Avmakers
-> INIT - 3/2/21 - 16:37
+> INIT - [3/2/21 - 16:37 - AULA 1]
 #### Inteface Photoshop
 - A primeira barra que fica a logomarca se chama barra de menus. São agrupamentos de funções. Lá você encontra
     File -> Funções para manipulaçao do arquivo.
@@ -106,3 +106,13 @@
 #### Seleção de intervalo
 - Clq 'Select -> Color Range'. A primeira barra é algums opções de amostragem. O foda dessa ferramente é a possibilidade de você apenas clicar naquela áreazinha de previu para ele obter a amostragem e então apenas ir subindo e descendo o avanço da máscara, aumentando e diminuindo a tolerância de modo mundo mais fácil e com preview imediato, que pode ser configurado como você quiser.
 - Esse color range tem opções de preview incríveis, você vai amar utilizar isso. Utilize!
+- Uma atalho interessante para todos os paineis é segurar o alt, porque o botão de "cancel" vira 'revert'.
+- Outro atalho interessante é, ao clicar para aplicar a máscara, se você segurar alt, a máscara já é aplicada invertida.
+
+#### Pintar seleção
+- Há uma forma muuuuiito legal de fazer recorte com o brush. Não, não é a que eu utilizo. Eu retiro com o brush as partes que eu não quero da imagem. No caso que estou falandoa agora, eu crio a seleção com o brush.
+- Você vai precisar clicar na ferramenta de selação rápida. Está localizada logo abaixo das cores, a primeira. Após, clique no brush e pinta a área que você quer. Se você passar do que é desejado, reverta usando a borracha.
+- Pra criar seleção, basta clicar novamente na ferramenta de seleção rápida.
+
+> FINISH - [3/2/21 - 21:56 - AULA 20]
+
