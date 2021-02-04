@@ -114,5 +114,21 @@
 - Você vai precisar clicar na ferramenta de selação rápida. Está localizada logo abaixo das cores, a primeira. Após, clique no brush e pinta a área que você quer. Se você passar do que é desejado, reverta usando a borracha.
 - Pra criar seleção, basta clicar novamente na ferramenta de seleção rápida.
 
-> FINISH - [3/2/21 - 21:56 - AULA 20]
+> FINISH - [3/2/21 - 21:56 - AULA 20] / INIT - [4/2/21 - 10:15]
 
+#### Refinamento de máscara
+
+- 'Select -> Color Range', clica no tom branco, depois clica no ícone de amostra com '+', clica pra adcionar mais o outro lado.
+- Regula o grau de tolerância. Aplica a mascará rápida na seleção. Usa o pincél pra corrigir as invasões.
+- Tira a máscara rápida, inverte a seleção e aplica uma máscara.
+- Clique na máscara e em no painel propriedades clique em seleção e mascaramento 'Select and Mask...'. Atalho 'Alt + Ctrl + R' ou 'Select -> Select and Mask'. Esse é o painel de refinamento.
+- O painel de refinamento possui ferramentas próprias. O que nos interessa é a segunda, o pincél de refinamento. Passe esse pincél no cabelo onde ficou serrilhado de branco.
+- No painel propriamente dito existe alguns métodos.
+    Primeira Grid -> Opções de Preview.
+    Segunda Grid -> Detecção automática de bordas.
+    Terceira Grid -> Suavização dos cortes
+    Quarta Grid -> Descontaminar cores (é a opção mais poderosa aqui, corrige bem os serrilhados e dá nitidez). Essa opção requer a criação de uma nova máscara, por isso que,quando habilitada, ela não permite salvar essa alteração na máscara atual. Ela te dará opções de criar nova máscara, novo documento etc. Deixe em New Layer with Layer Mask.
+- [ ] Praticar [ DATA ]
+- [ ] Praticar [ DATA ]
+- [ ] Praticar [ DATA ]
+    
