@@ -46,11 +46,11 @@
 - Clq 'View -> Show -> Smart Guides' para exibir aquelas linhas roxinhas da hora pra carai.
 - Clq 'View -> Snap' para fazer seus objetos grudarem em outro objetos quando você está arrastando. Legal pra carai tbm. 'View -> Snap To' pra definir no que você permite ele grudar.
 
-# Importar e modificar o tamanho de uma imagem
+#### Importar e modificar o tamanho de uma imagem
 - 'File -> Place Embedded' para abrir incorporado. Isso significa que o PS criará uma cópia da imagem pra ele mesmo. Modificar o arquivo original não alterará seu projeto.
 - 'File -> Place Linked' faz exatamente como no Premiere. Qualquer modificação no documento original reflete no seu documento.
 
-# Crop
+#### Crop
 - Tem alguns métodos interessantes dentro da barra de ferramentas do crop.
     Proporções -> O primeiro select te traz presets de proporções e também a custom, que você define informando as medidas. Clq 'Clear' para voltar para o modo de seleção de corte pelo mouse.
     Maletinha -> Serve para você traçar uma linha no sentido que você quer ajustar a orientação da imagem.
@@ -62,7 +62,7 @@
     'Delete Cropped Pixels' -> Se true, aquilo que você cortar é apagado do documento. Se false, o que foi cortado se mantém no documento, mas não visível, possibilitando o redimensionado do crop.
     'Content-Aware' -> Você já sabe o que isso faz. Mas é interessante que ele mostrou o exemplo de aumentar a área do crop além do tamanho da imagem e fazer o crop já preencher o que falta com o content-aware'.
 
-# Tipos de camadas e funções em uma camada
+#### Tipos de camadas e funções em uma camada
 - Tipos de camadas:
     Camada Tradicional -> É só a imagem mesmo, nenhum atributo especial.
     Camada de Objeto Inteligente -> Ainda não consegui entender o que é isso.
@@ -72,7 +72,7 @@
 - Tem uma barra no painel de camadas que tem uma lupa. Ali indica que você pode buscar uma camada pelo tipo dela. Ao lado da lupa já tem presets com símbolos desses tipos. Os 5 listados acima são os principais e por isso possuem esses símbolos ai pronto para serem clicados.
 - 'Shift + Clq' em cima da camada para desabilitá-la rapidamente.
 
-# Marquee (recorte quadradro ou redondo)
+#### Marquee (recorte quadradro ou redondo)
 - Na barra de ferramentas, verifique o que está selecionado entre os 4 ícones existentes, que são os modos de interpolação.
     1 -> Desenha um recorte novo.
     2 -> Soma a um recorte já existente.
@@ -82,13 +82,13 @@
 - Selecionando uma área e, ao invés de apertar ctrl+x, aplicar uma máscara o resultado será a exibição de somente a área selecionada.
 - O ícone de corrente entre a camada da imagem e a camada da máscara significa que onde você mover imagem, a máscara vai junto e vice-versa.
 
-# Laços
+#### Laços
 - Possui os mesmos 4 modos de interpolação do Marquee.
 - No primeiro laço, basta clicar e arrastar que quando você soltar a ferramente completo sua seleção automaticamente.
 - Com a seleção realizada, você pode utilizar o método Fill 'Edit -> Fill'. Você sabe como usar isso, sempre usou kkk. Vai abrir um painel com várias opções do com o que você quer preencher aquela seleção. Deixa em 'Content-aware / sensível ao conteúdo' e o resto das opções deixa do jeito que está.
 - Tem várias opções no menu Select, como selecionar tudo, selecionar inverso, deselecionar.
 
-# Seleção rápida
+#### Seleção rápida
 - Tem dois, a varinha e o pincel.
 - A barra de ferramentas do pincel já tem 3 ícones de cara indicando que ele pode criar uma selação nova, adicionar ou remover a uma selação.
 - Criada selação, pres 'Shift' para trocar entre modos de adicionar ou remover a seleção.
@@ -103,6 +103,6 @@
 - Você pode querer ter só o objeto que não foi selecionado, por exemplo, você quer trocar o céu de uma foto com uma casa no centro. Você pode selecionar o céu e então inverter a seleção e aplica uma máscara dai você tem a selação da casa. Sempre parta da pergunta "Qual é o objeto mais fácil de selecionar?". Vá no mais fácil e inverta a seleção.
 - Se ainda assim, ficar algumas imperfeições no objeto que você quer, pres 'alt' e clique na mascará. Ela ficará tela cheia. Dai você pega o pincel e corrige a máscara. Isso você sabe fazer muito bem.
 
-# Seleção de intervalo
+#### Seleção de intervalo
 - Clq 'Select -> Color Range'. A primeira barra é algums opções de amostragem. O foda dessa ferramente é a possibilidade de você apenas clicar naquela áreazinha de previu para ele obter a amostragem e então apenas ir subindo e descendo o avanço da máscara, aumentando e diminuindo a tolerância de modo mundo mais fácil e com preview imediato, que pode ser configurado como você quiser.
 - Esse color range tem opções de preview incríveis, você vai amar utilizar isso. Utilize!
